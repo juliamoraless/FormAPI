@@ -20,3 +20,16 @@
 /Users/juliamorales/Developer/DotNET/FormsAPI2/Domain/obj/Debug/net7.0/refint/Domain.dll
 /Users/juliamorales/Developer/DotNET/FormsAPI2/Domain/obj/Debug/net7.0/Domain.pdb
 /Users/juliamorales/Developer/DotNET/FormsAPI2/Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/juliamorales/Developer/DotNET/FormAPI/Domain/obj/Debug/net7.0/Domain.sourcelink.json
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/bin/Debug/net7.0/Domain.dll
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/obj/Debug/net7.0/Domain.sourcelink.json
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/obj/Debug/net7.0/Domain.dll
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/juliamorales/Developer/DotNET/Forms2API/Domain/obj/Debug/net7.0/ref/Domain.dll
