@@ -19,4 +19,8 @@
       <ProjectReference Include="..\Domain\Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="Repositories\Repository" />
+    </ItemGroup>
+
 </Project>

@@ -1,10 +1,9 @@
 namespace Domain.Models;
 
-public class Form
+public class Form : BaseEntity
 {
-    public int Id { get; set; }
     public string Name { get; set; } = "";
     public string Cpf { get; set; } = "";
-    public DateTime DataNascimento { get; set; }
+    public DateTime BirthDate { get; set; }
     public List<Attachment> Attachments { get; set; }
 }
